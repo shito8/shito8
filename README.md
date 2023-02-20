@@ -16,6 +16,7 @@ In this profile you will find my contributions to clients and organizations, as 
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 
 <!--
 **esis8/esis8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
